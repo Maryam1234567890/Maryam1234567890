@@ -1,6 +1,6 @@
 <h1 align="center">Hiii 👋, I'm Maryam 😊</h1>
 <h3 align="center">Full Stack Developer and Cybersecurity Enthusiast!!</h3>
-<img align="right" alt="coding_animation" width="400" src="[https://camo.githubusercontent.com/c7e2ca28de4726d848194ebbb60d6f91ff1188a781fb370e0aa8dab942cc9c50/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313637302f312a5a53566d57476363317765454e6230536861775778772e676966](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)" />
+<img align="right" alt="coding_animation" width="400" src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" />
 - 📚 I am a *Computer Science Engineering Student in PES University Specializing in Cybersecurity & Computer Networks*
 
 - 🤩 I’m looking to collaborate on *Anything*
