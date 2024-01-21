@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Maryam</h1>
-<h3 align="center">A passionate Network Security</h3>
-<img align="right" alt="coding_animation" width="400" src="https://camo.githubusercontent.com/c7e2ca28de4726d848194ebbb60d6f91ff1188a781fb370e0aa8dab942cc9c50/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313637302f312a5a53566d57476363317765454e6230536861775778772e676966" />
-- 🔭 I’m currently working on *Python Automation and R for Machine Learning*
+<h1 align="center">Hiii 👋, I'm Maryam 😊</h1>
+<h3 align="center">Full Stack Developer and Cybersecurity Enthusiast!!</h3>
+<img align="right" alt="coding_animation" width="400" src="[https://camo.githubusercontent.com/c7e2ca28de4726d848194ebbb60d6f91ff1188a781fb370e0aa8dab942cc9c50/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313637302f312a5a53566d57476363317765454e6230536861775778772e676966](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)" />
+- 📚 I am a *Computer Science Engineering Student in PES University Specializing in Cybersecurity & Computer Networks*
 
-- 🌱 I’m currently learning *Computer Science ,Network Security and Machine Learning*
+- 🤩 I’m looking to collaborate on *Anything*
 
-- 👯 I’m looking to collaborate on *Anything*
+- 👩🏻‍💻 All of my projects are available at [https://github.com/Maryam1234567890](https://github.com/Maryam1234567890)
 
-- 🤝 I’m looking for help with *Web Development*
+- 🧐 Ask me about *Full Stack Development and Cybersecurity & Computer Networks*
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maryam1234567890](https://github.com/Maryam1234567890)
+- 📫 Reach me at *kmaryam@gmail.com*
 
-- 💬 Ask me about *Computer Networks*
-
-- 📫 How to reach me *kmaryam@gmail.com*
-
-- ⚡ Fun fact *I like Anime*
+- 💻 Fun fact *I like Anime*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
