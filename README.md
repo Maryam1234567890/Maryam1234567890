@@ -1,7 +1,7 @@
 <h1 align="center">Hiii I'm Maryam 😊</h1>
 <h3 align="center">Full Stack Developer and Cybersecurity Enthusiast!!</h3>
 <img align="right" alt="coding_animation" width="400" src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" />
-- 📚 I am a *Computer Science Engineering Student in PES University Specializing in Cybersecurity & Computer Networks*
+- 📚 I am a <p color="blue">Computer Science Engineering Student in PES University Specializing in Cybersecurity & Computer Networks</p>
 
 - 🤩 I’m looking to collaborate on *Anything*
 
